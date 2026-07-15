@@ -7,7 +7,7 @@ cask "razerstream" do
   desc "Control app for the Razer Stream Controller; community replacement for the retired Loupedeck software"
   homepage "https://github.com/ShoelessTim/RazerStream"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "RazerStream.app"
 
