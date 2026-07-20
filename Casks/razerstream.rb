@@ -1,6 +1,6 @@
 cask "razerstream" do
-  version "1.5.2"
-  sha256 "554bc9f14b23149e3379ec61a96f3a30467ca39a8d863b4cdf4ee5d315f93989"
+  version "1.5.3"
+  sha256 "da308c7eee7feca57fe1f7c126214fabc78d21dc37423e79f6cce1472aeba80a"
 
   url "https://github.com/ShoelessTim/RazerStream/releases/download/v#{version}/RazerStream-v#{version}.zip"
   name "RazerStream"
